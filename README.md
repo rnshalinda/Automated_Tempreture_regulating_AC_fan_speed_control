@@ -23,10 +23,10 @@ This project is developed using mikroC PRO V7.2.0 to program the PIC microcontro
    
    ![IMG_20230816_170950](https://github.com/rnshalinda/Automated_Tempreture_regulating_AC_fan_speed_control/assets/133548503/b6fa4890-8137-4adf-b880-e3f3549ad6c8)
 
-### 25< degrees
+### 25< °C
    ![image](https://github.com/rnshalinda/Automated_Tempreture_regulating_AC_fan_speed_control/assets/133548503/2364a9da-5fd4-42eb-9538-1cd641d02db6) ![image](https://github.com/rnshalinda/Automated_Tempreture_regulating_AC_fan_speed_control/assets/133548503/84a13168-0793-4be8-8e38-b8e2561cd8c6) ![image](https://github.com/rnshalinda/Automated_Tempreture_regulating_AC_fan_speed_control/assets/133548503/f85ea633-9cea-4b9b-8186-54b9c9f140a2)
 
-### 50< degrees
+### 50< °C
    ![image](https://github.com/rnshalinda/Automated_Tempreture_regulating_AC_fan_speed_control/assets/133548503/14c02d9e-1a06-400f-ac60-fcd32f7e31a5) ![image](https://github.com/rnshalinda/Automated_Tempreture_regulating_AC_fan_speed_control/assets/133548503/3c9ecfa4-9aff-404e-8fed-25c15e3492a9) ![image](https://github.com/rnshalinda/Automated_Tempreture_regulating_AC_fan_speed_control/assets/133548503/d5bd0bc0-dadf-42d9-b42a-1d5a31e1fc76)
 
 
